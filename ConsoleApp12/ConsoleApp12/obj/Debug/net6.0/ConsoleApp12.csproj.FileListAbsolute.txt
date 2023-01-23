@@ -1,0 +1,15 @@
+C:\Users\donamol.joychan\Desktop\.NET\assignmentqns\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.csproj.AssemblyReference.cache
+C:\Users\donamol.joychan\Desktop\.NET\assignmentqns\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donamol.joychan\Desktop\.NET\assignmentqns\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.AssemblyInfoInputs.cache
+C:\Users\donamol.joychan\Desktop\.NET\assignmentqns\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.AssemblyInfo.cs
+C:\Users\donamol.joychan\Desktop\.NET\assignmentqns\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\donamol.joychan\Desktop\.NET\assignmentqns\ConsoleApp12\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.exe
+C:\Users\donamol.joychan\Desktop\.NET\assignmentqns\ConsoleApp12\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.deps.json
+C:\Users\donamol.joychan\Desktop\.NET\assignmentqns\ConsoleApp12\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.runtimeconfig.json
+C:\Users\donamol.joychan\Desktop\.NET\assignmentqns\ConsoleApp12\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.dll
+C:\Users\donamol.joychan\Desktop\.NET\assignmentqns\ConsoleApp12\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.pdb
+C:\Users\donamol.joychan\Desktop\.NET\assignmentqns\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.dll
+C:\Users\donamol.joychan\Desktop\.NET\assignmentqns\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\refint\ConsoleApp12.dll
+C:\Users\donamol.joychan\Desktop\.NET\assignmentqns\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.pdb
+C:\Users\donamol.joychan\Desktop\.NET\assignmentqns\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.genruntimeconfig.cache
+C:\Users\donamol.joychan\Desktop\.NET\assignmentqns\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ref\ConsoleApp12.dll

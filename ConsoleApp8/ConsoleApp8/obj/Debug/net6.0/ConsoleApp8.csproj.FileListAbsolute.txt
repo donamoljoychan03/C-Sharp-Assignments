@@ -1,0 +1,5 @@
+C:\Users\donamol.joychan\Desktop\.NET\assignmentqns\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.csproj.AssemblyReference.cache
+C:\Users\donamol.joychan\Desktop\.NET\assignmentqns\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donamol.joychan\Desktop\.NET\assignmentqns\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.AssemblyInfoInputs.cache
+C:\Users\donamol.joychan\Desktop\.NET\assignmentqns\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.AssemblyInfo.cs
+C:\Users\donamol.joychan\Desktop\.NET\assignmentqns\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.csproj.CoreCompileInputs.cache

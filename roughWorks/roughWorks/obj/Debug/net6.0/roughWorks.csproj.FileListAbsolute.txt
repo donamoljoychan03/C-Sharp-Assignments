@@ -1,0 +1,15 @@
+C:\Users\donamol.joychan\Desktop\.NET\assignmentqns\roughWorks\roughWorks\bin\Debug\net6.0\roughWorks.exe
+C:\Users\donamol.joychan\Desktop\.NET\assignmentqns\roughWorks\roughWorks\bin\Debug\net6.0\roughWorks.deps.json
+C:\Users\donamol.joychan\Desktop\.NET\assignmentqns\roughWorks\roughWorks\bin\Debug\net6.0\roughWorks.runtimeconfig.json
+C:\Users\donamol.joychan\Desktop\.NET\assignmentqns\roughWorks\roughWorks\bin\Debug\net6.0\roughWorks.dll
+C:\Users\donamol.joychan\Desktop\.NET\assignmentqns\roughWorks\roughWorks\bin\Debug\net6.0\roughWorks.pdb
+C:\Users\donamol.joychan\Desktop\.NET\assignmentqns\roughWorks\roughWorks\obj\Debug\net6.0\roughWorks.csproj.AssemblyReference.cache
+C:\Users\donamol.joychan\Desktop\.NET\assignmentqns\roughWorks\roughWorks\obj\Debug\net6.0\roughWorks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donamol.joychan\Desktop\.NET\assignmentqns\roughWorks\roughWorks\obj\Debug\net6.0\roughWorks.AssemblyInfoInputs.cache
+C:\Users\donamol.joychan\Desktop\.NET\assignmentqns\roughWorks\roughWorks\obj\Debug\net6.0\roughWorks.AssemblyInfo.cs
+C:\Users\donamol.joychan\Desktop\.NET\assignmentqns\roughWorks\roughWorks\obj\Debug\net6.0\roughWorks.csproj.CoreCompileInputs.cache
+C:\Users\donamol.joychan\Desktop\.NET\assignmentqns\roughWorks\roughWorks\obj\Debug\net6.0\roughWorks.dll
+C:\Users\donamol.joychan\Desktop\.NET\assignmentqns\roughWorks\roughWorks\obj\Debug\net6.0\refint\roughWorks.dll
+C:\Users\donamol.joychan\Desktop\.NET\assignmentqns\roughWorks\roughWorks\obj\Debug\net6.0\roughWorks.pdb
+C:\Users\donamol.joychan\Desktop\.NET\assignmentqns\roughWorks\roughWorks\obj\Debug\net6.0\roughWorks.genruntimeconfig.cache
+C:\Users\donamol.joychan\Desktop\.NET\assignmentqns\roughWorks\roughWorks\obj\Debug\net6.0\ref\roughWorks.dll
